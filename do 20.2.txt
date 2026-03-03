@@ -1,0 +1,9 @@
+do 20.2
+
+/*
+nazwa funkcji: -
+opis funkcji: -
+parametry: -
+zwracany typ i opis: -
+autor: Kacper Wandzak
+*/
