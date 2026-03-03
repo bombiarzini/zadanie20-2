@@ -1,0 +1,5 @@
+1 obraz logo pochodzi z pliku lokalnego, typ aspectfit który zachowuje proporcje
+2 5dni
+3 nie, ponieważ mamy linijke  IsAnimationPlaying="False" który wstrzymuje 
+animacje
+4 będzie zaokrąglony w kątach
